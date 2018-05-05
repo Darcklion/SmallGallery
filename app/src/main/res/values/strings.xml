@@ -1,6 +1,9 @@
 <resources>
     <string name="app_name">Small Gallery</string>
     <string name="title_home">Home</string>
-    <string name="title_dashboard">Dashboard</string>
-    <string name="title_notifications">Notifications</string>
+    <string name="title_settings">Settings</string>
+    <string name="import_images_count">Number of images to import (Default - 10)</string>
+    <string name="columns_count">Number of columns (Default - 3)</string>
+    <string name="clear_database">Clear local DB</string>
+    <string name="import_text">Import images</string>
 </resources>
