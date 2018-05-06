@@ -6,4 +6,5 @@
     <string name="columns_count">Number of columns (Default - 3)</string>
     <string name="clear_database">Clear local DB</string>
     <string name="import_text">Import images</string>
+    <string name="delete">Delete</string>
 </resources>
